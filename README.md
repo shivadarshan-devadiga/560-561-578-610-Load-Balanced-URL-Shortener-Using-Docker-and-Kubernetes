@@ -204,9 +204,9 @@ kubectl delete -f <filename>.yaml
 ## 👨‍💻 **Author**
 
 - [Shivadarshan](https://github.com/shivadarshan-devadiga)
-- [Shivaling]
+- [Shivaling](https://github.com/1Shiv2004)
 - [Shreyanshu](https://github.com/shreyanshu12345)
-- [Srihari]
+- [Srihari](https://github.com/Srihari3435)
 
 ---
 
